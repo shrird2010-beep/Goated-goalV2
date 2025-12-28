@@ -18,7 +18,7 @@ As a student athlete, I wanted a **full-size training goal** that is:
 - Adjustable
 - Strong enough to handle hard shots
 - Portable and easy to assemble
-- Affordable (under $30)
+- Affordable (under $25)
 
 My Goated Goal was designed to solve this problem using thoughtful mechanical engineering design.
 
@@ -75,7 +75,7 @@ The diagonal support poles redirect impact forces from the crossbar into the ver
 | Debonair Tent Poles Telescoping Tarp Poles| $16.90 |
 | PVC Poles (10 ft) | $4.46 |
 | Reusable Waterproof Electrical Cable Ties | $.78 |
-| **Total** | **$24.43 (~$24.43)** |
+| **Total** | **$24.43 (~$25)** |
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
