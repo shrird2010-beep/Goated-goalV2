@@ -40,30 +40,27 @@ The most critical components of the design are the **custom corner brackets**, w
 
 | CAD Model |
 |-----------|
-![Screenshot](Screenshot%202025-12-25%20165520.png)
+![Screenshot](Screenshot%202025-12-28%20144247.png)
 
 Before, the right corner featured one oversized hole to fit the end of a telescoping pole. Now I have changed it to be the same as the left side. I have also made it so that it will hold 4 poles rather than 3.
 
-| CAD Model |
+| Before (Left pole)|
 |-----------|
-![Screenshot](Screenshot%202025-12-25%20164047.png)
+![Screenshot](Screenshot%202025-12-14%20125239.png)
 
-The left corner was designed with precise diagonal pole measurements to prevent any collapsing. Its really just the same as the right side.
-
-| CAD Model |
+| After (Left pole)|
 |-----------|
-![Screenshot](Screenshot%202025-12-25%20164506.png)
+![Screenshot](Screenshot%202025-12-28%20144227.png)
 
-These are some new additions that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal. The CADS with a 3-holed bracket will be holding the top of my goal while the CAD with triangles will be the middle holder that gives structural support.
+The left corner was designed with precise diagonal pole measurements to prevent any collapsing. Its really just the same as the right side. A major difference though is that I wanted the corner to be in the air before. I soon learned that wouldn't be the best option. I then later changed my idea to something more stronger.
 
----
+| Additional parts |
+|-----------|
+![Screenshot](Screenshot%202025-12-28%20144140.png)
+![Screenshot](Screenshot%202025-12-28%20144156.png)
+![Screenshot](Screenshot%202025-12-28%20144208.png)
 
-## Structural Stability
-| Predicted Assembly |
-|--------------------|
-![Screenshot](Screenshot%202025-12-25%20163314.png)
-
-The diagonal support poles redirect impact forces from the crossbar into the vertical posts. Or in other words, if i hit the goal too hard, the structure will be A-okay.
+These are some new additions that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal. The CADs with a 3-holed bracket will be holding the top of my goal while the CAD with triangles will be the middle holder that gives structural support.
 
 ---
 
