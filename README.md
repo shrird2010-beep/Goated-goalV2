@@ -4,7 +4,7 @@
 ## Overview
 **Goated Goal** is a fully adjustable soccer training goal designed for individual and team practices. The goal expands up to **10 ft wide and 7 ft tall**, making it significantly bigger and more versatile than most affordable consumer goals. Unlike fixed-sized and overpriced alternatives, Goated Goal can be **changed to different widths** to match training needs and field space. For me, it offers a accurate size goal that I can use for game-like plays.
 
-This project focuses on **mechanical engineering skills, CADing (if thats a word), and prototyping**. Instead of firmware or electronics, the innovation is in its **adjustable design and versitile functionality**, using 3D-printed parts and off-the-shelf materials. 
+This project focuses on **mechanical engineering skills, CADing (if thats a word), and prototyping**. Instead of firmware or electronics, the innovation is in its **adjustable design and versitile functionality**, using 3D-printed parts and off-the-shelf materials. This time I have changed up my parts a little bit. I now have created several 3d printed parts that I will be using to build this.
 
 ---
 
@@ -18,18 +18,18 @@ As a student athlete, I wanted a **full-size training goal** that is:
 - Adjustable
 - Strong enough to handle hard shots
 - Portable and easy to assemble
-- Affordable (under $100)
+- Affordable (under $30)
 
 My Goated Goal was designed to solve this problem using thoughtful mechanical engineering design.
 
 ---
 
 ## Key Features
-- Adjustable width up to **10 ft**
-- Custom **3D-printed structural corners**
+- Adjustable width up to **12 ft**
+- Custom **3D-printed structural corners and holders**
 - Telescoping poles for adjustable sizing
 - Impact-resistant full-size net
-- Hardware-only engineering focus so it is easy for anyone to replicate
+- Hardware-only/3d printing only so it is easy for anyone to replicate
 
 ---
 
@@ -42,19 +42,19 @@ The most critical components of the design are the **custom corner brackets**, w
 |-----------|
 ![Screenshot](Screenshot%202025-12-25%20165520.png)
 
-The right corner features one oversized hole to fit the end of a telescoping pole with an end that has a larger diameter. This ensures a tight fit so it can withstand any shots that I give it.
+Before, the right corner featured one oversized hole to fit the end of a telescoping pole. Now I have changed it to be the same as the left side. I have also made it so that it will hold 4 poles rather than 3.
 
 | CAD Model |
 |-----------|
 ![Screenshot](Screenshot%202025-12-25%20164047.png)
 
-The left corner was designed with precise diagonal pole measurements to prevent any collapsing.
+The left corner was designed with precise diagonal pole measurements to prevent any collapsing. Its really just the same as the right side.
 
 | CAD Model |
 |-----------|
 ![Screenshot](Screenshot%202025-12-25%20164506.png)
 
-This is a new addition that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal.
+These are some new additions that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal. The CADS with a 3-holed bracket will be holding the top of my goal while the CAD with triangles will be the middle holder that gives structural support.
 
 ---
 
@@ -71,11 +71,11 @@ The diagonal support poles redirect impact forces from the crossbar into the ver
 
 | Item | Cost |
 |------|------|
-| Football Replacement Goal Net (12×6 ft) | $5.64 |
-| 2pcs Heavy-Duty Adjustable Telescopic Support Bar| $20.95 |
-| Telescopic Pool Poles (10 ft) | $11.59 |
-| Hook & Loop Straps + Buckles (self-funded) | $0 |
-| **Total** | **$38.18 (~$39)** |
+| Football Replacement Goal Net (12×6 ft) | $2.29 |
+| Debonair Tent Poles Telescoping Tarp Poles| $16.90 |
+| PVC Poles (10 ft) | $4.46 |
+| Reusable Waterproof Electrical Cable Ties | $.78 |
+| **Total** | **$24.43 (~$24.43)** |
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
@@ -85,9 +85,10 @@ All materials were selected based on availability, strength, adjustability, and 
 1. Insert telescoping poles into the 3D-printed corner brackets
 2. Attach diagonal support poles to prevent collapse
 3. Extend poles to desired width
-4. Secure the net using hook-and-loop straps
-5. Adjust sizing based on training needs
-6. When your done, just pack it up in any backpack you have!
+4. Connect the goal to the corners
+5. Secure the net using the straps
+6. Adjust sizing based on training needs
+7. When your done, just pack it up in any backpack you have!
 
 ---
 
