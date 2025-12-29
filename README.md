@@ -1,5 +1,6 @@
 # Goated-goalV2
 # 🐐 Shrihan's Goated-Goal — An Adjustable Training Soccer Goal that can be used whenever!
+Inspo: https://www.youtube.com/watch?v=eOJQuOstX0s
 
 ## Overview
 **Goated Goal** is a fully adjustable soccer training goal designed for individual and team practices. The goal expands up to **10 ft wide and 7 ft tall**, making it significantly bigger and more versatile than most affordable consumer goals. Unlike fixed-sized and overpriced alternatives, Goated Goal can be **changed to different widths** to match training needs and field space. For me, it offers a accurate size goal that I can use for game-like plays.
