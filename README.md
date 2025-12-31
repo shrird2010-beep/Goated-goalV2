@@ -75,11 +75,11 @@ Here is my final predicted model. I will be using weights to hold down the goal 
 
 | Item | Cost |
 |------|------|
-| Football Replacement Goal Net (12×6 ft) | $2.29 |
+| Football Replacement Goal Net (12×6 ft) (price changed from $2.29) | $3.32 |
 | Debonair Tent Poles Telescoping Tarp Poles| $16.90 |
 | PVC Poles (10 ft) | $4.46 |
-| Reusable Waterproof Electrical Cable Ties | $.78 |
-| **Total** | **$24.43 (~$25)** |
+| Reusable Waterproof Electrical Cable Ties (ill pay for this, it was $.78)| $0 |
+| **Total** | **$24.68 (~$25)** |
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
