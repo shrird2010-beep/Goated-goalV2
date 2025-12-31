@@ -64,6 +64,12 @@ The left corner was designed with precise diagonal pole measurements to prevent 
 These are some new additions that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal. The CADs with a 3-holed bracket will be holding the top of my goal while the CAD with triangles will be the middle holder that gives structural support.
 
 ---
+## Predicted Model
+Here is my final predicted model. I will be using weights to hold down the goal if it tries to move. To see the "final assembly", check the tab above.
+
+![Screenshot](Screenshot%202025-12-30%20190723.png)
+
+---
 
 ## Bill of Materials (BOM)
 
