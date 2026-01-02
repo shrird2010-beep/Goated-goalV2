@@ -72,7 +72,7 @@ Here is my final predicted model. I will be using weights to hold down the goal 
 ---
 
 ## Bill of Materials (BOM)
-**Attention, the prices changed from what I submitted! I changed al the prices below. It is still under $25. I will return the extra I have**
+**Attention, the prices changed from what I submitted! I changed all the prices below. It is still under $25. I will return the extra I have**
 
 | Item | Cost |
 |------|------|
