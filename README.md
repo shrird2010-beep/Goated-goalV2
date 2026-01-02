@@ -41,7 +41,7 @@ The most critical components of the design are the **custom corner brackets**, w
 
 | CAD Model |
 |-----------|
-![Screenshot](Screenshot%202025-12-28%20144247.png)
+![Screenshot](Screenshot%202026-01-02%20175517.png)
 
 Before, the right corner featured one oversized hole to fit the end of a telescoping pole. Now I have changed it to be the same as the left side. I have also made it so that it will hold 4 poles rather than 3.
 
@@ -51,7 +51,7 @@ Before, the right corner featured one oversized hole to fit the end of a telesco
 
 | After (Left pole)|
 |-----------|
-![Screenshot](Screenshot%202025-12-28%20144227.png)
+![Screenshot](Screenshot%202026-01-02%20175314.png)
 
 The left corner was designed with precise diagonal pole measurements to prevent any collapsing. Its really just the same as the right side. A major difference though is that I wanted the corner to be in the air before. I soon learned that wouldn't be the best option. I then later changed my idea to something more stronger.
 
