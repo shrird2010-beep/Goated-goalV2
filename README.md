@@ -118,7 +118,7 @@ https://www.homedepot.com/p/Charlotte-Pipe-1-in-x-10-ft-Plastic-Plain-End-Pipe-P
 ## Future Improvements
 - Increase corner wall thickness for higher impact resistance
 - Add optional ground anchors
-- Add an additional pole on the bottom that can connect the small poles to the big ones
+- Add an additional pole in the middle that can connect the two horizontal poles together
 - Test alternative materials for improved durability
 
 ---
