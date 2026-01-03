@@ -58,7 +58,7 @@ The left corner was designed with precise diagonal pole measurements to prevent 
 | Additional parts |
 |-----------|
 ![Screenshot](Screenshot%202025-12-28%20144140.png)
-![Screenshot](Screenshot%202025-12-28%20144156.png)
+![Screenshot](Screenshot%202026-01-03%20185349.png)
 ![Screenshot](Screenshot%202025-12-28%20144208.png)
 
 These are some new additions that I created after I found some old tent poles in my garage. This will cut down my costs and help me create a stronger goal. The CADs with a 3-holed bracket will be holding the top of my goal while the CAD with triangles will be the middle holder that gives structural support.
