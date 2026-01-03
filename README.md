@@ -65,7 +65,7 @@ These are some new additions that I created after I found some old tent poles in
 
 ---
 ## Predicted Model
-Here is my final predicted model. I will be using weights to hold down the goal if it tries to move. To see the "final assembly", check the tab above.
+Here is my final predicted model. I will be using weights to hold down the goal if it tries to move. To see the "final assembly", check the tab above. ( I also added the CADs for the bars I used. Those dont matter though because I am buying some of them and have the rest)
 
 ![Screenshot](Screenshot%202025-12-30%20190723.png)
 
