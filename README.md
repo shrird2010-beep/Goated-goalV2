@@ -3,7 +3,7 @@
 Inspo: https://www.youtube.com/watch?v=eOJQuOstX0s
 
 ## Overview
-**Goated Goal** is a fully adjustable soccer training goal designed for individual and team practices. The goal expands up to **10 ft wide and 7 ft tall**, making it significantly bigger and more versatile than most affordable consumer goals. Unlike fixed-sized and overpriced alternatives, Goated Goal can be **changed to different widths** to match training needs and field space. For me, it offers a accurate size goal that I can use for game-like plays.
+**Goated Goal** is a fully adjustable soccer training goal designed for individual and team practices. The goal expands up to **12 ft wide and 6 ft tall**, making it significantly bigger and more versatile than most affordable consumer goals. Unlike fixed-sized and overpriced alternatives, Goated Goal can be **changed to different widths** to match training needs and field space. For me, it offers a accurate size goal that I can use for game-like plays.
 
 This project focuses on **mechanical engineering skills, CADing (if thats a word), and prototyping**. Instead of firmware or electronics, the innovation is in its **adjustable design and versitile functionality**, using 3D-printed parts and off-the-shelf materials. This time I have changed up my parts a little bit. I now have created several 3d printed parts that I will be using to build this.
 
